@@ -1,8 +1,8 @@
-### Eaee Bruno Martins aqui!!! 
-- 🔭 Atualmente sou estudante de ciência da computação
-- 🌱 Evoluindo uma div de cada vez 
+### Seja bem vindo ao meu perfil!!! 
+- 🔭 Sou estudante de ciência da computação
+- 🔍 Foco em Analise de Dados 
 - 🙏 A procura de parcerias para desenvolvimento de projetos 
-- 💻 Pretendo me especializar em DEV Full Stack e proramação de games 
+- 💻 Pretendo me especializar em ciencia de dados e modelos de machine learning 
 
 <div align="center">
   <a href="https://github.com/BrunoM20">
@@ -15,6 +15,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   </div>
   
   ##
