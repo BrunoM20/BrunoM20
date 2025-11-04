@@ -1,7 +1,6 @@
 ### Seja bem vindo ao meu perfil!!! 
 - 🔭 Sou estudante de ciência da computação
 - 🔍 Foco em Analise de Dados 
-- 🙏 A procura de parcerias para desenvolvimento de projetos 
 - 💻 Pretendo me especializar em ciencia de dados e modelos de machine learning 
 
 <div align="center">
